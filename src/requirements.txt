@@ -86,7 +86,7 @@ olefile==0.46
 orator==0.9.8
 pandas==0.25.3
 pandocfilters==1.4.2
-paramiko==2.6.0
+paramiko==2.10.1
 parso==0.5.2
 pastel==0.1.1
 pendulum==1.5.1
